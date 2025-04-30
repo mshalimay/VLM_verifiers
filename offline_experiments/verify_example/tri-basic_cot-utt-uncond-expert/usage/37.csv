@@ -1,0 +1,2 @@
+candidates_token_count,prompt_token_count,prompt_tokens_details,total_token_count,_input_tokens,_completion_tokens,_total_tokens,_input_tokens:text,_input_tokens:image,gen_config,num_generations
+85,1712,"[{'modality': 'TEXT', 'token_count': 1196}, {'modality': 'IMAGE', 'token_count': 516}]",1797,1712,85,1797,1196,516,"{'model': 'gemini-2.5-flash-preview-04-17', 'temperature': 1.0, 'max_tokens': 8192, 'top_p': 0.5, 'top_k': 40, 'response_format': None, 'seed': 0, 'provider': 'google', 'mode': None, 'model_path': 'gemini-2.5-flash-preview-04-17'}",1
